@@ -1,2 +1,2 @@
 # GSoC-Primer1
-It's a short project to have your to do list in your bucket.
+You can also contribute in this one if you've knowledge of FrontEnd Web Development.
